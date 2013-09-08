@@ -1,4 +1,4 @@
-package com.xtreamit.mail;
+package com.example.mail;
 import java.util.Properties;
 import javax.mail.Message;
 import javax.mail.MessagingException;
