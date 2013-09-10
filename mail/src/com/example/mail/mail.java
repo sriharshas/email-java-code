@@ -14,6 +14,7 @@ public class mail{
 	private static final String SMTP_HOST_NAME = "smtp.gmail.com";
 	//for gmail,use:SSL Port 465
 	//for yahoo,use:SSL Port 465
+	//
 	private static final String SMTP_PORT = "465";
 	private static final String emailMsgTxt = "Test Message Contents";
 	private static final String emailSubjectTxt = "A test from gmail";
